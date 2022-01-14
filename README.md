@@ -1,5 +1,7 @@
 ### Hello, fellow developers! 👋
 
+<div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=austinthaldorfhuelsbeck.austinthaldorfhuelsbeck)
 <a href="https://www.linkedin.com/in/austinhuelsbeck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/static/v1?label=Website&message=austinthaldorfhuelsbeck.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
@@ -23,7 +25,10 @@ I'm a self-taught career switcher, always growing working on a number of **[proj
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<div align="center">
+
+</div>
+
+<h3><strong>What I'm up to:</strong></h3>
 
 - 🔭 I’m currently working on: Perfecting the UX of my public frontends using frameworks and preprocessing
 - 🌱 I’m currently learning: Modern fullstack development (NextJS, Firebase), CSS Frameworks (Tailwind, Bootstrap) and DS/Algorithms
