@@ -12,7 +12,7 @@
 
 Welcome to my GitHub profile, where the real magic happens.
 
-I'm a self-taught career switcher, always growing working on a number of **[projects](https://austinthaldorfhuelsbeck.com/projects)** to learn. View my **[resume](https://docs.google.com/document/d/1N4QKkwgBB6nNT1Odw_BBUOQe6eQ_fVVdz80Uv6stMh8/edit?usp=sharing)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
+I'm a self-taught programmer, always growing working on a number of **[projects](https://austinthaldorfhuelsbeck.com/projects)** to learn. View my **[resume](https://docs.google.com/document/d/1N4QKkwgBB6nNT1Odw_BBUOQe6eQ_fVVdz80Uv6stMh8/edit?usp=sharing)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=austinthaldorfhuelsbeck&show_icons=true&theme=dark" alt="Austin Thaldorf-Huelsbeck's Github Stats">
 
