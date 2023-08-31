@@ -1,4 +1,4 @@
-### Hello, fellow developers! 👋
+👋
 
 <div>
 
@@ -10,11 +10,7 @@
 </a>
 <br>
 
-Welcome to my GitHub profile, where the real magic happens.
-
-I'm a self-taught programmer, always growing working on a number of **[projects](https://austinthaldorfhuelsbeck.com/projects)** to learn. View my **[resume](https://docs.google.com/document/d/1N4QKkwgBB6nNT1Odw_BBUOQe6eQ_fVVdz80Uv6stMh8/edit?usp=sharing)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
-
-<img src="https://github-readme-stats.vercel.app/api?username=austinthaldorfhuelsbeck&show_icons=true&theme=dark" alt="Austin Thaldorf-Huelsbeck's Github Stats">
+View my **[resume](https://docs.google.com/document/d/1N4QKkwgBB6nNT1Odw_BBUOQe6eQ_fVVdz80Uv6stMh8/edit?usp=sharing)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
 
 <h3><strong>My favorite Languages, Frameworks, Tools</strong></h3>  
 
@@ -28,10 +24,4 @@ I'm a self-taught programmer, always growing working on a number of **[projects]
 
 </div>
 
-<h3><strong>What I'm up to:</strong></h3>
-
-- 🔭 I’m currently working on: Perfecting the UX of my public frontends using frameworks and preprocessing
-- 🌱 I’m currently learning: Modern fullstack development (NextJS, Firebase), CSS Frameworks (Tailwind, Bootstrap) and DS/Algorithms
-- 👯 I’m looking to collaborate on: Educational projects with other early-career developers
-- 💬 Contact me with: Projects to collaborate on, job opportunities, freelance static site design/development work
 - 📫 How to reach me: austinthaldorfhuelsbeck@gmail.com
