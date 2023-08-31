@@ -2,7 +2,6 @@
 
 <div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=austinthaldorfhuelsbeck.austinthaldorfhuelsbeck)
 <a href="https://www.linkedin.com/in/austinhuelsbeck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/static/v1?label=Website&message=austinthaldorfhuelsbeck.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
