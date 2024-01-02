@@ -1,15 +1,15 @@
-👋
+👋 Hi, I'm Austin.
 
 <div>
 
 <a href="https://www.linkedin.com/in/austinhuelsbeck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/static/v1?label=Website&message=austinthaldorfhuelsbeck.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
-<a href="http://www.austinthaldorfhuelsbeck.com" target="_blank">
+<a href="https://austinthaldorfhuelsbeck.github.io/ath-portf/" target="_blank">
 </a>
 <br>
 
-View my **[resume](https://docs.google.com/document/d/1N4QKkwgBB6nNT1Odw_BBUOQe6eQ_fVVdz80Uv6stMh8/edit?usp=sharing)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
+View my **[resume](https://austinthaldorfhuelsbeck.github.io/ath-portf/files/AustinThaldorfHuelsbeck_Resume2024.pdf)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austinthaldorfhuelsbeck@gmail.com)**.
 
 <h3><strong>My favorite Languages, Frameworks, Tools</strong></h3>  
 
