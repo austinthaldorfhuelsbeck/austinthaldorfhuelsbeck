@@ -3,13 +3,13 @@
 <div>
 
 <a href="https://www.linkedin.com/in/austinhuelsbeck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.austinthaldorfhuelsbeck.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=austinthaldorfhuelsbeck.com&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/></a>
+<a href="https://thaldorfhuelsbeck.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=Website&message=thaldorfhuelsbeck.dev&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/></a>
 </a>
 <a href="https://austinthaldorfhuelsbeck.github.io/ath-portf/" target="_blank">
 </a>
 <br>
 
-View my **[resume](https://austinthaldorfhuelsbeck.github.io/ath-portf/AustinThaldorfHuelsbeck_Resume2024.pdf)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:info@austinthaldorfhuelsbeck.com)**.
+View my **[resume](https://austinthaldorfhuelsbeck.github.io/ath-portf/AustinThaldorfHuelsbeck_Resume2024.pdf)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austin@thaldorfhuelsbeck.dev)**.
 
 <h3><strong>My favorite Languages, Frameworks, Tools</strong></h3>  
 
