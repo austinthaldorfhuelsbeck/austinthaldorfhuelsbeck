@@ -9,7 +9,7 @@
 </a>
 <br>
 
-View my **[resume](https://austinthaldorfhuelsbeck.github.io/ath-portf/AustinThaldorfHuelsbeck_Resume2024.pdf)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austin@thaldorfhuelsbeck.dev)**.
+View my **[resume](https://github.com/austinthaldorfhuelsbeck/cv)**, ask a **[question](https://github.com/austinthaldorfhuelsbeck/austinthaldorfhuelsbeck/issues/new)**, or send an **[email](mailto:austin@thaldorfhuelsbeck.dev)**.
 
 <h3><strong>My favorite Languages, Frameworks, Tools</strong></h3>  
 
