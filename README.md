@@ -22,4 +22,4 @@ View my **[resume](https://austinthaldorfhuelsbeck.github.io/ath-portf/AustinTha
 
 </div>
 
-- 📫 How to reach me: info@austinthaldorfhuelsbeck.dev
+- 📫 How to reach me: austin@thaldorfhuelsbeck.dev
